@@ -1,2 +1,9 @@
 # Physical test info system
- A course project from Shandong University
+a winform desktop application that covers the C# course
+
+## Prerequisite 
+You need your database set up as follow 
+<br>Mysql database is used in this project
+Then set your database 
+
+
